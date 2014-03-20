@@ -72,3 +72,15 @@ end
 sepia_filter.update(intensity: 0.6)
 blur_filter.update(radius: 5.0)
 ```
+
+-------------------------------------------------------------------------------
+
+### Resources
+
+* [Core Image Filter Reference](1)
+* [xissburg/XBImageFilters](2)
+* [BradLarson/GPUImage](3)
+
+[1]: (https://developer.apple.com/library/ios/documentation/graphicsimaging/reference/CoreImageFilterReference/Reference/reference.html)
+[2]: (https://github.com/xissburg/XBImageFilters)
+[3]: (https://github.com/BradLarson/GPUImage)
